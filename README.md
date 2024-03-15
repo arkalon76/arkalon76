@@ -23,7 +23,7 @@ Connect
 
 Current Projects
 
-🎁 thatfreeaisite - POC, Let anyone enjoy LLM's without feeling that you are feeding the billionaires with your data: open source, real hardware and NO Tracking.
+🎁 m21.chat - POC, Let anyone enjoy LLM's without feeling that you are feeding the billionaires with your data: open source, real hardware and NO Tracking. ANY input accepted (except pidgin since we know they are rats with wings)
 🐌 Angry Snail - Use ML to offload compliance docs to our AI overlords
 
 **Languages & Tools**
